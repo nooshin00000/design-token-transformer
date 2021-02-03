@@ -4,5 +4,6 @@
   "PrimaryColour": "rgba(19, 202, 218, 1)",
   "ShapesColour": "rgba(154, 233, 240, 0.44)",
   "BodyText": "rgba(131, 131, 131, 1)",
-  "BgColour": "rgba(242, 242, 242, 1)"
+  "BgColour": "rgba(242, 242, 242, 1)",
+  "TestColour": "rgba(165, 255, 51, 1)"
 }

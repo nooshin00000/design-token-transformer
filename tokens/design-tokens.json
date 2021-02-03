@@ -34,5 +34,11 @@
     "comment": null,
     "value": "rgba(242, 242, 242, 1)",
     "type": "color"
+  },
+  "test-colour": {
+    "category": "fill",
+    "comment": "a colour for test",
+    "value": "rgba(165, 255, 51, 1)",
+    "type": "color"
   }
 }
