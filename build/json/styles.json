@@ -1,0 +1,8 @@
+{
+  "White": "rgba(255, 255, 255, 1)",
+  "Black": "rgba(0, 0, 0, 1)",
+  "PrimaryColour": "rgba(19, 202, 218, 1)",
+  "ShapesColour": "rgba(154, 233, 240, 0.44)",
+  "BodyText": "rgba(131, 131, 131, 1)",
+  "BgColour": "rgba(242, 242, 242, 1)"
+}

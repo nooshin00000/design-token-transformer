@@ -1,0 +1,38 @@
+{
+  "white": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color"
+  },
+  "black": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(0, 0, 0, 1)",
+    "type": "color"
+  },
+  "primary-colour": {
+    "category": "fill",
+    "comment": "primary colour of the app",
+    "value": "rgba(19, 202, 218, 1)",
+    "type": "color"
+  },
+  "shapes-colour": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(154, 233, 240, 0.44)",
+    "type": "color"
+  },
+  "body-text": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(131, 131, 131, 1)",
+    "type": "color"
+  },
+  "bg-colour": {
+    "category": "fill",
+    "comment": null,
+    "value": "rgba(242, 242, 242, 1)",
+    "type": "color"
+  }
+}
