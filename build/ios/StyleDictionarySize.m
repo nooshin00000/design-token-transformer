@@ -3,10 +3,20 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Thu, 04 Feb 2021 14:12:45 GMT
+// Generated on Thu, 04 Feb 2021 14:15:33 GMT
 //
 
 #import "StyleDictionarySize.h"
 
 
 
+float const HeadingOneFontSize = 50;
+float const HeadingOneFontWeight = 700;
+float const HeadingOneLetterSpacing = 0;
+float const HeadingOneParagraphIndent = 0;
+float const HeadingOneParagraphSpacing = 0;
+float const HeadingTwoFontSize = 20;
+float const HeadingTwoFontWeight = 700;
+float const HeadingTwoLetterSpacing = 0;
+float const HeadingTwoParagraphIndent = 0;
+float const HeadingTwoParagraphSpacing = 0;

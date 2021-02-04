@@ -24,10 +24,63 @@
     "type": "color"
   },
   "body-text": {
-    "category": "fill",
+    "category": "font",
     "comment": null,
     "value": "rgba(131, 131, 131, 1)",
-    "type": "color"
+    "type": "color",
+    "fontSize": {
+      "value": 14,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Roboto",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": "normal",
+      "type": "string",
+      "unit": "auto"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
   },
   "bg-colour": {
     "category": "fill",
@@ -40,5 +93,117 @@
     "comment": "a colour for test",
     "value": "rgba(165, 255, 51, 1)",
     "type": "color"
+  },
+  "heading-one": {
+    "category": "font",
+    "fontSize": {
+      "value": 50,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Roboto",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 700,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Bold",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": "normal",
+      "type": "string",
+      "unit": "auto"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "heading-two": {
+    "category": "font",
+    "fontSize": {
+      "value": 20,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Roboto",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 700,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Bold",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": "normal",
+      "type": "string",
+      "unit": "auto"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
   }
 }
