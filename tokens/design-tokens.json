@@ -97,7 +97,7 @@
   "heading-one": {
     "category": "font",
     "fontSize": {
-      "value": 50,
+      "value": 50.5,
       "type": "number",
       "unit": "pixel"
     },
