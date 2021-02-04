@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 04 Feb 2021 14:59:03 GMT
+// Generated on Thu, 04 Feb 2021 15:31:08 GMT
 //
 
 
@@ -24,7 +24,7 @@ public class StyleDictionary {
     public static let headingOneParagraphIndent = 0
     public static let headingOneParagraphSpacing = 0
     public static let headingOneTextCase = none
-    public static let headingOneTextDecoration = none
+    public static let headingOneTextDecoration = underline
     public static let headingTwoFontFamily = Roboto
     public static let headingTwoFontSize = 20
     public static let headingTwoFontStretch = normal
@@ -39,6 +39,6 @@ public class StyleDictionary {
     public static let headingTwoTextDecoration = none
     public static let primaryColour = rgba(19, 202, 218, 1)
     public static let shapesColour = rgba(154, 233, 240, 0.44)
-    public static let testColour = rgba(165, 255, 51, 1)
+    public static let testColourOne = rgba(165, 255, 51, 1)
     public static let white = rgba(255, 255, 255, 1)
 }

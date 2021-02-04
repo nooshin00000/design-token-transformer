@@ -88,7 +88,7 @@
     "value": "rgba(242, 242, 242, 1)",
     "type": "color"
   },
-  "test-colour": {
+  "test-colour-one": {
     "category": "fill",
     "comment": "a colour for test",
     "value": "rgba(165, 255, 51, 1)",
@@ -102,7 +102,7 @@
       "unit": "pixel"
     },
     "textDecoration": {
-      "value": "none",
+      "value": "underline",
       "type": "string"
     },
     "fontFamily": {
