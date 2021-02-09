@@ -91,8 +91,60 @@
   "test-colour-one": {
     "category": "fill",
     "comment": "a colour for test",
-    "value": "rgba(165, 255, 51, 1)",
+    "value": "rgba(244, 3, 61, 1)",
     "type": "color"
+  },
+  "col-row": {
+    "0": {
+      "pattern": {
+        "value": "columns",
+        "type": "string"
+      },
+      "gutterSize": {
+        "value": 20,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "alignment": {
+        "value": "stretch",
+        "type": "string"
+      },
+      "count": {
+        "value": 5,
+        "type": "number"
+      },
+      "offset": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      }
+    },
+    "1": {
+      "pattern": {
+        "value": "rows",
+        "type": "string"
+      },
+      "gutterSize": {
+        "value": 20,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "alignment": {
+        "value": "stretch",
+        "type": "string"
+      },
+      "count": {
+        "value": 5,
+        "type": "number"
+      },
+      "offset": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      }
+    },
+    "category": "grid",
+    "comment": null
   },
   "heading-one": {
     "category": "font",

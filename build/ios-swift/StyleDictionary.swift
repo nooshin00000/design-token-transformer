@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 04 Feb 2021 15:31:08 GMT
+// Generated on Tue, 09 Feb 2021 16:31:29 GMT
 //
 
 
@@ -13,6 +13,16 @@ public class StyleDictionary {
     public static let bgColour = rgba(242, 242, 242, 1)
     public static let black = rgba(0, 0, 0, 1)
     public static let bodyText = rgba(131, 131, 131, 1)
+    public static let colRow0Alignment = stretch
+    public static let colRow0Count = 5
+    public static let colRow0GutterSize = 20
+    public static let colRow0Offset = 0
+    public static let colRow0Pattern = columns
+    public static let colRow1Alignment = stretch
+    public static let colRow1Count = 5
+    public static let colRow1GutterSize = 20
+    public static let colRow1Offset = 0
+    public static let colRow1Pattern = rows
     public static let headingOneFontFamily = Roboto
     public static let headingOneFontSize = 50.5
     public static let headingOneFontStretch = normal
@@ -39,6 +49,6 @@ public class StyleDictionary {
     public static let headingTwoTextDecoration = none
     public static let primaryColour = rgba(19, 202, 218, 1)
     public static let shapesColour = rgba(154, 233, 240, 0.44)
-    public static let testColourOne = rgba(165, 255, 51, 1)
+    public static let testColourOne = rgba(244, 3, 61, 1)
     public static let white = rgba(255, 255, 255, 1)
 }
