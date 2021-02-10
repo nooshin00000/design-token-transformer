@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 09 Feb 2021 16:31:29 GMT
+// Generated on Wed, 10 Feb 2021 14:50:07 GMT
 //
 
 
@@ -49,6 +49,6 @@ public class StyleDictionary {
     public static let headingTwoTextDecoration = none
     public static let primaryColour = rgba(19, 202, 218, 1)
     public static let shapesColour = rgba(154, 233, 240, 0.44)
-    public static let testColourOne = rgba(244, 3, 61, 1)
+    public static let testColourOne = rgba(42, 255, 37, 1)
     public static let white = rgba(255, 255, 255, 1)
 }

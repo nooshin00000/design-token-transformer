@@ -91,7 +91,7 @@
   "test-colour-one": {
     "category": "fill",
     "comment": "a colour for test",
-    "value": "rgba(244, 3, 61, 1)",
+    "value": "rgba(42, 255, 37, 1)",
     "type": "color"
   },
   "col-row": {
